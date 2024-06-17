@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\Abstractclassassignment\Abstractclassassignment\bin\Debug\Abstractclassassignment.exe.config
+C:\Users\user\source\repos\Abstractclassassignment\Abstractclassassignment\bin\Debug\Abstractclassassignment.exe
+C:\Users\user\source\repos\Abstractclassassignment\Abstractclassassignment\bin\Debug\Abstractclassassignment.pdb
+C:\Users\user\source\repos\Abstractclassassignment\Abstractclassassignment\obj\Debug\Abstractclassassignment.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Abstractclassassignment\Abstractclassassignment\obj\Debug\Abstractclassassignment.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Abstractclassassignment\Abstractclassassignment\obj\Debug\Abstractclassassignment.exe
+C:\Users\user\source\repos\Abstractclassassignment\Abstractclassassignment\obj\Debug\Abstractclassassignment.pdb
